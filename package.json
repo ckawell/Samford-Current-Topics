@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ckawell/Samford-Current-Topics/issues"
   },
-  "homepage": "https://github.com/ckawell/Samford-Current-Topics"
+  "homepage": "https://github.com/ckawell/Samford-Current-Topics",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
